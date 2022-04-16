@@ -12,6 +12,20 @@ This resource pack fix [MC-53312](https://bugs.mojang.com/browse/MC-53312), whic
 - the witch
 - the zombie villager
 
+# Showcase
+
+Whithout this pack
+![2022-04-16_22 45 28](https://user-images.githubusercontent.com/49841713/163690890-a8fd5df7-87de-41a3-a7b1-310eae274876.png)
+
+Debugging version
+![2022-04-16_22 46 58](https://user-images.githubusercontent.com/49841713/163690896-d91247f9-fd2d-4400-bede-7f991bfcf55a.png)
+
+<br/>With this pack
+![2022-04-14_23 15 14](https://user-images.githubusercontent.com/49841713/163690909-db6c78a9-b67f-4e11-ae14-38402a713b3d.png)
+
+Debugging version
+![2022-04-14_23 16 46](https://user-images.githubusercontent.com/49841713/163690920-dba436df-dc46-49e9-8334-b3dc23806fe7.png)
+
 # Credits
 
 Julienraptor01#3476 for the Custom Entity Models

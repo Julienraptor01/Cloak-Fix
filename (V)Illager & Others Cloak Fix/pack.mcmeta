@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 8,
-        "description": [{"text":"Let them use their full cloak !\n§cRequire CEM !!!","color":"gold"}]
+        "description": [{"text":"Let them use their full cloak !\n§cRequires CEM !!!","color":"gold"}]
     }
 }

@@ -31,6 +31,8 @@ Debugging version
 Julienraptor01#3476 for the Custom Entity Models
 <br/>https://github.com/Julienraptor01/Cloak-Fix/
 
+viciscat for the grammatical error
+
 ONLIX#1662 for the inspiration on the pack.png
 
 dorianpb for the CEM mod
